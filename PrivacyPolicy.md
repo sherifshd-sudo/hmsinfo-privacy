@@ -51,4 +51,4 @@ The app is for adult employees. It is not meant for people under 18 and we do no
 If we change this policy we will publish the new version at this address and change the date above. Material changes will also be shown in the app.
 
 ## 10. Contact
-High Minded Solutions · sherif@hmsinfo.com · Postal address: 4923523 · hmsinfo.com
+High Minded Solutions · sherif@hmsinfo.com · Postal address: Abdul Menam Wasel, Villa 20, Al Shorouk, Cairo, Egypt · hmsinfo.com
